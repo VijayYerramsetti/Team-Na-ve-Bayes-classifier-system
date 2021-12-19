@@ -1,4 +1,4 @@
-# Team-Na-ve-Bayes-classifier-system
+# Team-Naïve-Bayes-classifier-system
 
 
 <b> Description </b> <br>
